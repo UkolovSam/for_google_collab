@@ -1,1 +1,1 @@
-# for_google_collab
+# for_google_colab
